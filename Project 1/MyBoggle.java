@@ -1,8 +1,7 @@
  ///////////////////////////////////////////////////////////////////
 // Boggle Class that displays the board and lets users guess words
 // **Program assumes correct command line arguments **
-// Alessio Mazzone
-// ALM238
+
 
 import java.io.*;
 import java.util.*;
