@@ -1,4 +1,3 @@
-// ALM238
 // This is a De La Briandais implementation of a dictionary using the dictionary interface
 
 
