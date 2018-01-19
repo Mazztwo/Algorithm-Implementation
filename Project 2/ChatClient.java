@@ -1,4 +1,4 @@
-/* CS/COE 1501
+/* 
    Primitive chat client. 
    This client connects to a server so that messages can be typed and forwarded
    to all other clients.  Try it out in conjunction with ChatServer.java.
