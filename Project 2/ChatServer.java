@@ -1,4 +1,4 @@
-/* CS/COE 1501
+/* 
    Simple Chat server (without encryption).   The actual server used for
    Assignment 3 is similar to this, but with handshaking and encryption
    as specified in the Assignment sheet.  This server (together with
