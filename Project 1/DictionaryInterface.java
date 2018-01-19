@@ -1,4 +1,4 @@
-// CS/COE 1501
+
 // Use this interface with Assignment 1
 
 public interface DictionaryInterface {
