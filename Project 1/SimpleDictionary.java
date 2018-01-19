@@ -1,6 +1,5 @@
-// CS/COE 1501
-// Use this class with Assignment 1.  Read over the code and make sure
-// you understand how it works and why it is not very efficient.
+
+// Use this class with Assignment 1.  
 
 import java.util.*;
 public class SimpleDictionary implements DictionaryInterface {
