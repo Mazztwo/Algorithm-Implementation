@@ -1,4 +1,4 @@
-// CS/COE 1501
+
 // Interface for symmetric ciphers to be used with Assignment 3.  This must be
 // implemented by both your Add128 and Substitute classes.
 
