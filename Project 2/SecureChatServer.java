@@ -1,4 +1,4 @@
-/* CS/COE 1501
+/*
    Main Program for Chat Server to be used with Assignment 3
    You must use the program as written without any changes.  Note that this program
    requires the following:
